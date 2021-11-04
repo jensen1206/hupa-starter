@@ -1,0 +1,741 @@
+# Copyright (C) 2017 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2021-07-06 10:48+0200\n"
+"PO-Revision-Date: 2021-07-06 10:49+0200\n"
+"Last-Translator: \n"
+"Language-Team: Deutsch (Sie)\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html;esc_html__;esc_att;esc_attr__;"
+"esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/inc/hooks/action/theme-options.php:113
+msgid "HUPA"
+msgstr ""
+
+#: admin/inc/register-hupa-starter-optionen.php:65
+#: admin/inc/register-hupa-starter-optionen.php:66
+msgid "Theme Settings"
+msgstr ""
+
+#: admin/inc/register-hupa-starter-optionen.php:76
+#: admin/inc/register-hupa-starter-optionen.php:77
+msgid "Theme Options"
+msgstr ""
+
+#: admin/inc/register-hupa-starter-optionen.php:182
+#, fuzzy
+#| msgid "Top Footer"
+msgid "Custom Footer"
+msgstr "Top Footer"
+
+#: admin/inc/register-hupa-starter-optionen.php:183
+#, fuzzy
+#| msgid "Footer 1"
+msgid "Footer"
+msgstr "Footer 1"
+
+#: admin/inc/register-hupa-starter-optionen.php:184
+#, fuzzy
+#| msgid "Top Footer"
+msgid "Edit Footer"
+msgstr "Top Footer"
+
+#: admin/inc/register-hupa-starter-optionen.php:185
+msgid "Footer list navigation"
+msgstr "Footer-Listennavigation"
+
+#: admin/inc/register-hupa-starter-optionen.php:187
+msgid "Footer Archives"
+msgstr "Footer Archive"
+
+#: admin/inc/register-hupa-starter-optionen.php:218
+msgid "Custom Header"
+msgstr ""
+
+#: admin/inc/register-hupa-starter-optionen.php:219
+msgid "Header"
+msgstr ""
+
+#: admin/inc/register-hupa-starter-optionen.php:220
+msgid "Edit Header"
+msgstr "Header bearbeiten"
+
+#: admin/inc/register-hupa-starter-optionen.php:221
+msgid "Header list navigation"
+msgstr "Header-Listennavigation"
+
+#: admin/inc/register-hupa-starter-optionen.php:222
+msgid "Create new header"
+msgstr "Neuen Header erstellen"
+
+#: admin/inc/register-hupa-starter-optionen.php:223
+msgid "Header Archives"
+msgstr "Header Archive"
+
+#: admin/inc/starter-admin-pages/admin-starter-theme-home.php:17
+msgid "Settings / Start page"
+msgstr "Settings / Startseite"
+
+#: admin/inc/starter-admin-pages/admin-starter-theme-home.php:25
+msgid "all imported content"
+msgstr ""
+
+#: admin/inc/starter-admin-pages/admin-starter-theme-home.php:30
+msgid "Import new content"
+msgstr ""
+
+#: archive-equal-height-sidebar-right.php:62 archive-equal-height.php:63
+#: archive-masonry.php:63 archive-sidebar-left.php:65 archive.php:63
+#: author-equal-height-sidebar-right.php:68 author-equal-height.php:69
+#: author-masonry.php:69 author-sidebar-left.php:71
+#: category-equal-height-sidebar-right.php:63 category-equal-height.php:63
+#: category-masonry.php:63 category-sidebar-left.php:63 category.php:61
+#: index.php:78 index.php:134 template-parts/content-search.php:42
+msgid "Read more »"
+msgstr "Weiterlesen »"
+
+#: author.php:68
+msgid "Read more"
+msgstr "Weiterlesen"
+
+#: comments.php:58 comments.php:76
+msgid "Older Comments"
+msgstr "Ältere Kommentare"
+
+#: comments.php:59 comments.php:77
+msgid "Newer Comments"
+msgstr "Neueste Kommentare"
+
+#: comments.php:98 inc/template-tags.php:110
+msgid "Leave a Comment"
+msgstr "Kommentar schreiben"
+
+#: comments.php:99
+#, php-format
+msgid "Leave a Comment to %s"
+msgstr "Schreibe Kommentar für %s"
+
+#: comments.php:100
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: comments.php:101
+msgid "Post Comment"
+msgstr "Kommentar posten"
+
+#: comments.php:103
+msgid "Start typing..."
+msgstr "Schreiben Sie Ihren Kommentar..."
+
+#: comments.php:121 woocommerce/single-product-reviews.php:89
+msgid "Name*"
+msgstr "Name*"
+
+#: comments.php:125 woocommerce/single-product-reviews.php:95
+msgid "Email* (will not be published)"
+msgstr "Email* (wird nicht veröffentlicht)"
+
+#: comments.php:130
+msgid "Website"
+msgstr "Webseite"
+
+#: functions.php:127
+msgid "Top Nav"
+msgstr "Top Navigation"
+
+#: functions.php:129 functions.php:141 functions.php:153 functions.php:165
+#: functions.php:177 functions.php:189 functions.php:201 functions.php:213
+#: functions.php:225
+msgid "Add widgets here."
+msgstr "Widgets hier einfügen"
+
+#: functions.php:139
+msgid "Top Nav Search"
+msgstr "Top Nav Suche"
+
+#: functions.php:151
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:163
+#, fuzzy
+#| msgid "Footer 1"
+msgid "Top Footer"
+msgstr "Footer 1"
+
+#: functions.php:175
+#, fuzzy
+#| msgid "Footer 2"
+msgid "Footer 1"
+msgstr "Footer 2"
+
+#: functions.php:187
+msgid "Footer 2"
+msgstr "Footer 2"
+
+#: functions.php:199
+msgid "Footer 3"
+msgstr "Footer 3"
+
+#: functions.php:211
+msgid "Footer 4"
+msgstr "Footer 4"
+
+#: functions.php:223
+msgid "404 Page"
+msgstr "404 Seite"
+
+#: functions.php:424
+msgid "Password"
+msgstr "Passwort"
+
+#: functions.php:425 woocommerce/single-product-reviews.php:81
+msgid "Submit"
+msgstr "Senden"
+
+#: inc/comment-list.php:29
+msgid "Pingback:"
+msgstr "Oingback:"
+
+#: inc/comment-list.php:29 inc/comment-list.php:53 inc/template-tags.php:139
+#: woocommerce/myaccount/my-address.php:53
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: inc/comment-list.php:46
+#, php-format
+msgid "%s <span class=\"says d-none\">says:</span>"
+msgstr "%s <span class=\"says d-none\">sagt:</span>"
+
+#: inc/comment-list.php:58
+msgid "Your comment is awaiting moderation."
+msgstr "Ihr Kommentar wartet auf Moderation."
+
+#: inc/comment-list.php:109
+msgid ""
+"Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+"Meinen Namen, E-Mail und Website in diesem Browser speichern, bis ich wieder "
+"kommentiere."
+
+#: inc/template-tags.php:38
+msgid ", "
+msgstr ","
+
+#: inc/template-tags.php:167
+msgid "Leave a comment"
+msgstr "Kommentar schreiben"
+
+#: inc/template-tags.php:191
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Schlagworte %1$s"
+
+#: inc/template-tags.php:254
+msgid "Internet Explorer detected"
+msgstr "Internet Explorer erkannt"
+
+#: inc/template-tags.php:255
+msgid "This website will offer limited functionality in this browser."
+msgstr "Diese Website bietet eingeschränkte Funktionen in diesem Browser."
+
+#: inc/template-tags.php:256
+msgid "Please use a modern and secure web browser like"
+msgstr "Bitte verwenden Sie einen modernen und sicheren Webbrowser wie z.B."
+
+#: inc/template-tags.php:256
+msgid "or"
+msgstr "oder"
+
+#: inc/template-tags.php:256
+msgid "to display this site correctly."
+msgstr "um diese Webseite korrekt darzustellen."
+
+#: languages/plugin-translations.php:2
+msgid "All"
+msgstr "Alle"
+
+#: languages/plugin-translations.php:3
+msgid "Look what I found: "
+msgstr "Schauen Sie mal was ich gefunden habe: "
+
+#: page-blank-with-container.php:21 page-blank-without-container.php:21
+#: page-sidebar-left.php:38 page-sidebar-none.php:33 page.php:43
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: search.php:29
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für: %s"
+
+#: searchform.php:3
+msgid "Search"
+msgstr "Suche"
+
+#: single-full-width-image.php:34 single-sidebar-left.php:31
+#: single-sidebar-none.php:28 single.php:29
+msgid " by "
+msgstr " von "
+
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Bereit Ihren ersten Post zu veröffentlichen? <a href=\"%1$s\">Starten Sie "
+"hier</a>."
+
+#: woocommerce/cart/cart-shipping.php:51
+#, php-format
+msgid "Shipping to %s."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:52
+msgid "Change address"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:54
+msgid "Shipping options will be updated during checkout."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:62
+msgid "Shipping costs are calculated during checkout."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:64
+msgid "Enter your address to view shipping options."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:67
+msgid ""
+"There are no shipping options available. Please ensure that your address has "
+"been entered correctly, or contact us if you need any help."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:70
+#, php-format
+msgid "No shipping options were found for %s."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:71
+msgid "Enter a different address"
+msgstr ""
+
+#: woocommerce/cart/cart.php:56 woocommerce/cart/mini-cart.php:78
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:77
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:92
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:97
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:103 woocommerce/global/quantity-input.php:28
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:125
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart.php:144 woocommerce/checkout/form-coupon.php:38
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:145 woocommerce/checkout/form-coupon.php:40
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:151
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:24
+#, fuzzy
+#| msgid "Continue shopping"
+msgid "Calculate shipping"
+msgstr "Weiter einkaufen"
+
+#: woocommerce/cart/shipping-calculator.php:50
+#: woocommerce/cart/shipping-calculator.php:55
+#: woocommerce/cart/shipping-calculator.php:67
+msgid "State / County"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:76
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:82
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:26
+#, fuzzy
+#| msgid "Leave a comment"
+msgid "Have a coupon?"
+msgstr "Kommentar schreiben"
+
+#: woocommerce/checkout/form-coupon.php:26
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:79
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:34
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:34
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:43
+#, php-format
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the %1$sUpdate Totals%2$s button before placing your order. "
+"You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:45
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:42 woocommerce/checkout/thankyou.php:84
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/global/form-login.php:51 woocommerce/myaccount/form-login.php:58
+#: woocommerce/myaccount/my-account-offcanvas.php:66
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/global/form-login.php:57
+msgid "Login"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:28
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:27
+msgid "Shop order"
+msgstr "Shop Bestellung"
+
+#: woocommerce/loop/result-count.php:30
+msgid "Showing the single result"
+msgstr ""
+
+#: woocommerce/myaccount/form-add-payment-method.php:54
+msgid "Add payment method"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:69
+msgid "Save changes"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:20
+#: woocommerce/myaccount/my-address.php:27
+#: woocommerce/myaccount/my-address.php:32
+msgid "Billing address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:20
+#: woocommerce/myaccount/my-address.php:28
+msgid "Shipping address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:46
+msgid "Save address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:63
+#: woocommerce/myaccount/my-account-offcanvas.php:71
+msgid "Log in"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:122
+#: woocommerce/myaccount/my-account-offcanvas.php:128
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:25
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:39
+#, fuzzy
+#| msgid "Password"
+msgid "Reset password"
+msgstr "Passwort"
+
+#: woocommerce/myaccount/form-reset-password.php:25
+msgid "Enter a new password below."
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:45
+msgid "Save"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:41
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:13
+msgid "Order"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:14
+msgid "Date"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:15
+msgid "Status"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:16
+msgid "Total"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:30
+msgid "Recent orders"
+msgstr ""
+
+#: woocommerce/myaccount/payment-methods.php:49
+#, fuzzy, php-format
+#| msgctxt "1: date, 2: time"
+#| msgid "%1$s at %2$s"
+msgid "%1$s ending in %2$s"
+msgstr "%1$s um %2$s"
+
+#: woocommerce/order/order-details-customer.php:34
+#: woocommerce/order/order-details-customer.php:52
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/order/order-downloads.php:56
+msgid "&infin;"
+msgstr ""
+
+#: woocommerce/product-searchform.php:26
+msgid "Search products..."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
+#, fuzzy, php-format
+#| msgctxt "comments title"
+#| msgid "One Comment &ldquo;%s&rdquo;"
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr "Ein Kommentar &ldquo;%s&rdquo;"
+
+#: woocommerce/single-product-reviews.php:77
+#, fuzzy, php-format
+#| msgid "Leave a Comment to %s"
+msgid "Leave a Reply to %s"
+msgstr "Schreibe Kommentar für %s"
+
+#: woocommerce/single-product-reviews.php:120
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:124
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:125
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:126
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:127
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:128
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:129
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:130
+msgid "Very poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:134
+msgid "Your review...*"
+msgstr "Ihre Bewertung...*"
+
+#: woocommerce/woocommerce-functions.php:260
+msgid "View cart"
+msgstr ""
+
+#: woocommerce/woocommerce-functions.php:263
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/woocommerce-functions.php:276
+msgid "Your cart is currently empty."
+msgstr ""
+
+#~ msgid "/privacy-policy"
+#~ msgstr "/datenschutzerklaerung"
+
+#~ msgid "Accept"
+#~ msgstr "Verstanden"
+
+#~ msgid "Back Home &raquo;"
+#~ msgstr "Zur Startseite &raquo;"
+
+#~ msgid "Bastian Kreiter"
+#~ msgstr "Bastian Kreiter"
+
+#~ msgid "Blank with container"
+#~ msgstr "Blank mit container"
+
+#~ msgid "Blank without container"
+#~ msgstr "Blank ohne container"
+
+#~ msgid "bootScore 5"
+#~ msgstr "bootScore 5"
+
+#~ msgid "Cart"
+#~ msgstr "Warenkorb"
+
+#~ msgid "Close account"
+#~ msgstr "Account schliessen"
+
+#~ msgid "Close menu"
+#~ msgstr "Menü schliessen"
+
+#~ msgid "Comments are closed."
+#~ msgstr "Kommentare sind geschlossen"
+
+#, php-format
+#~ msgctxt "comments title"
+#~ msgid "%1$s Comment on &ldquo;%2$s&rdquo;"
+#~ msgid_plural "%1$s Comments on &ldquo;%2$s&rdquo;"
+#~ msgstr[0] "%1$s Kommentare bei &ldquo;%2$s&rdquo;"
+#~ msgstr[1] "%1$s Kommentare bei &ldquo;%2$s&rdquo;"
+
+#~ msgid ""
+#~ "Cookies help us deliver our services. By using our services, you agree to "
+#~ "our use of cookies."
+#~ msgstr ""
+#~ "Cookies erleichtern die Bereitstellung unserer Dienste. Mit der Nutzung "
+#~ "unserer Dienste erklären Sie sich damit einverstanden, dass wir Cookies "
+#~ "verwenden."
+
+#~ msgid "Delivery details"
+#~ msgstr "Lieferdetails"
+
+#~ msgid "Full Width Image"
+#~ msgstr "Bild in voller Breite"
+
+#~ msgid "Full width image"
+#~ msgstr "Bild in voller Breite"
+
+#~ msgid "Hello"
+#~ msgstr "Hallo"
+
+#~ msgid ""
+#~ "Here you can view your recent orders, manage your shipping and billing "
+#~ "addresses, and edit your password and account details."
+#~ msgstr ""
+#~ "Hier können Sie Ihre letzten Bestellungen einsehen, Ihre Versand- und "
+#~ "Rechnungsadressen und Passwort und Kontodetails bearbeiten."
+
+#~ msgid "https://bootscore.me/"
+#~ msgstr "https://bootscore.me/"
+
+#~ msgid "https://crftwrk.de"
+#~ msgstr "https://crftwrk.de"
+
+#~ msgid ""
+#~ "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+#~ "searching can help."
+#~ msgstr ""
+#~ "Anscheinend können wir nicht finden, wonach Sie suchen. Suchen Sie bitte "
+#~ "mit anderen Schlagwörtern."
+
+#~ msgid "Left Sidebar"
+#~ msgstr "Linke Sidebar"
+
+#~ msgid "Main Menu"
+#~ msgstr "Hauptmenü"
+
+#~ msgid "More Information"
+#~ msgstr "Weitere Informationen"
+
+#~ msgid "No Sidebar"
+#~ msgstr "Ohne Sidebar"
+
+#~ msgid "Nothing Found for"
+#~ msgstr "Nichts gefunden für"
+
+#~ msgid "Page not found."
+#~ msgstr "Seite nicht gefunden"
+
+#, php-format
+#~ msgctxt "post author"
+#~ msgid "by %s"
+#~ msgstr "von %s"
+
+#~ msgid "Sidebar left"
+#~ msgstr "Sidebar links"
+
+#~ msgid ""
+#~ "Sorry, but nothing matched your search terms. Please try again with some "
+#~ "different keywords."
+#~ msgstr ""
+#~ "Nichts entspricht Ihren Suchkriterien. Bitte versuchen Sie es mit anderen "
+#~ "Stichwörtern erneut."
+
+#~| msgid "To find out your shipping cost , Please proceed to checkout."
+#~ msgid "To find out your shipping cost, please proceed to checkout."
+#~ msgstr "Um Ihre Versandkosten zu berechnen, gehen Sie bitte zur Kasse."
